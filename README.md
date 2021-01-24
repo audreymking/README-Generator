@@ -69,3 +69,4 @@ Your README may look something like this:
 ![README example1.png](README example1.png)
 ![README example2.png](README example2.png)
 ![README example3.png](README example3.png)
+![README example3.png](<img width="1105" alt="README example3" src="https://user-images.githubusercontent.com/69822381/105644469-5c63a080-5e5b-11eb-8d35-099877efa42a.png">)
