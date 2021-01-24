@@ -1,7 +1,7 @@
 
 # Project Title
 
-###README Generator
+### README Generator
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
