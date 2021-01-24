@@ -20,6 +20,7 @@ This application allows users to create their own unique README, incuding a titl
 * [Contributing](#contributing)
 * [Testing](#testing)
 * [Contact](#contact)
+* [Example](#example)
 
 
 ## Installation
@@ -61,3 +62,10 @@ My Email: audreymking1@gmail.com
 GitHub: audreymking
 
 Check out my projects at [audreymking](https://github.com/audreymking/).
+
+## Example
+
+Your README may look something like this:
+![Example1](README Example1.png)
+![Example2](README Example2.png)
+![Example3](README Example3.png)
