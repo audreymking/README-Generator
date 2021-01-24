@@ -38,6 +38,9 @@ This application creates a license badge automatically.
 
 ![Project TerminalExample.png](TerminalExample.png)
 
+Click on the link for a video for a full look on input and file presentation:
+![README Video] (https://drive.google.com/file/d/1-kY3KQzkeRT9DSj3wtW0d0bN-JokeJGX/view)
+
 ## Contributing
 
 To contribute please follow these directions:
