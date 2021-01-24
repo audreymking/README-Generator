@@ -66,6 +66,6 @@ Check out my projects at [audreymking](https://github.com/audreymking/).
 ## Example
 
 Your README may look something like this:
-![Example1](README Example1.png)
-![Example2](README Example2.png)
-![Example3](README Example3.png)
+![Example1](README example1.png)
+![Example2](README example2.png)
+![Example3](README example3.png)
